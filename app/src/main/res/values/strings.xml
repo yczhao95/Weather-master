@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="condition">Condition</string>
+    <string name="sunny">Sunny</string>
+    <string name="foggy">Foggy</string>
+    <string name="rainy">Rainy</string>
+    <string name="todo">TODO</string>
+</resources>

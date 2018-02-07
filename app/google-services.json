@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "875557956527",
+    "firebase_url": "https://crowd-weather-f030d.firebaseio.com",
+    "project_id": "crowd-weather-f030d",
+    "storage_bucket": "crowd-weather-f030d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875557956527:android:fc5ac1bb673f5a88",
+        "android_client_info": {
+          "package_name": "com.example.jasminechen.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875557956527-dnosqpbp0jf4t8hblnqb2u7t0jqd58lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQ-LQ4itlNR_Ahny1-02io_xDRnMeLZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
